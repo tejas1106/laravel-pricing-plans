@@ -1,7 +1,7 @@
 {
-  "name": "oanhnn/laravel-pricing-plans",
+  "name": "andychukse/laravel-pricing-plans",
   "type": "library",
-  "description": "A package provide pricing plans for Laravel.",
+  "description": "A package provide pricing plans for Laravel. Forked from oanhnn/laravel-pricing-plans",
   "keywords": [
     "plans",
     "laravel",
@@ -9,10 +9,10 @@
     "pricing"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/oanhnn/laravel-pricing-plans",
+  "homepage": "https://github.com/andychukse/laravel-pricing-plans",
   "support": {
-    "issues": "https://github.com/oanhnn/laravel-pricing-plans/issues",
-    "source": "https://github.com/oanhnn/laravel-pricing-plans"
+    "issues": "https://github.com/andychukse/laravel-pricing-plans/issues",
+    "source": "https://github.com/andychukse/laravel-pricing-plans"
   },
   "authors": [
     {
