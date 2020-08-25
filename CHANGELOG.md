@@ -27,7 +27,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Nothing
 
 
-## [0.3.4] - 2018-08-09
+## [0.3.4] - 2020-08-25
 
 ### Support for Laravel 7 and Symphony 5
 - Added support for laravel 7.* and Symphony 5
