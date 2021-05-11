@@ -26,13 +26,13 @@
     }
   },
   "require": {
-    "php": "^7.3",
+    "php": "^7.3 || ^8.0",
     "illuminate/database": "^8.0",
     "illuminate/support": "^8.0",
     "nesbot/carbon": "^2.43"
   },
   "require-dev": {
-    "fzaninotto/faker": "~1.9.2",
+    "fakerphp/faker": "^1.14.1",
     "mockery/mockery": "^1.4.2",
     "orchestra/database": "6.x-dev",
     "orchestra/testbench": "^6.9",
