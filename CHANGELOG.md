@@ -37,4 +37,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Support for Laravel 8
 - Added support for laravel 8.*
 
+## [0.5.1] - 2021-05-11
+### Support for PHP 8
+- Added support for php 8.*
+
 

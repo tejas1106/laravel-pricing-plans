@@ -16,7 +16,7 @@ For Laravel 7.0+ use v0.4, for Laravel 8.0+ use v0.5
 
 ## Requirements
 
-* php >=7.2
+* php >=7.2 || 8.0+
 * Laravel 7.0+ || 8.0+
 
 ## Installation
