@@ -1,5 +1,5 @@
 {
-  "name": "andychukse/laravel-pricing-plans",
+  "name": "teson/laravel-pricing-plans",
   "type": "library",
   "description": "A package provide pricing plans for Laravel. Forked from oanhnn/laravel-pricing-plans",
   "keywords": [
